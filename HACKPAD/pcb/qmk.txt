@@ -1,0 +1,619 @@
+'C:\Windows\system32\drivers\etc\hosts' -> '/etc/hosts'
+Welcome to QMK MSYS!
+  * Documentation:    https://docs.qmk.fm
+  * Support:          https://discord.gg/qmk
+
+If you have not already done so,
+  run qmk setup to get started.
+  run qmk compile -kb <keyboard> -km default to start building.
+  run qmk config user.hide_welcome=True to hide this message.
+[bartv@aspire7-bart ~]$ qmk setup
+☒ Could not find qmk_firmware!
+Would you like to clone qmk/qmk_firmware to C:/Users/bartv/qmk_firmware? [y/n] y
+Cloning into '/c/Users/bartv/qmk_firmware'...
+Updating files:   0% (100/22330)
+Updating files:   0% (204/22330)
+Updating files:   1% (224/22330)
+Updating files:   1% (272/22330)
+Updating files:   1% (355/22330)
+Updating files:   2% (447/22330)
+Updating files:   2% (457/22330)
+Updating files:   2% (551/22330)
+Updating files:   2% (648/22330)
+Updating files:   3% (670/22330)
+Updating files:   3% (747/22330)
+Updating files:   3% (847/22330)
+Updating files:   4% (894/22330)
+Updating files:   4% (947/22330)
+Updating files:   4% (1060/22330)
+Updating files:   5% (1117/22330)
+Updating files:   5% (1164/22330)
+Updating files:   5% (1276/22330)
+Updating files:   6% (1340/22330)
+Updating files:   6% (1379/22330)
+Updating files:   6% (1476/22330)
+Updating files:   7% (1564/22330)
+Updating files:   7% (1576/22330)
+Updating files:   7% (1672/22330)
+Updating files:   7% (1772/22330)
+Updating files:   8% (1787/22330)
+Updating files:   8% (1867/22330)
+Updating files:   8% (1968/22330)
+Updating files:   9% (2010/22330)
+Updating files:   9% (2068/22330)
+Updating files:   9% (2189/22330)
+Updating files:  10% (2233/22330)
+Updating files:  10% (2290/22330)
+Updating files:  10% (2389/22330)
+Updating files:  11% (2457/22330)
+Updating files:  11% (2481/22330)
+Updating files:  11% (2577/22330)
+Updating files:  11% (2679/22330)
+Updating files:  12% (2680/22330)
+Updating files:  12% (2796/22330)
+Updating files:  13% (2903/22330)
+Updating files:  13% (2907/22330)
+Updating files:  13% (3020/22330)
+Updating files:  14% (3127/22330)
+Updating files:  14% (3132/22330)
+Updating files:  14% (3238/22330)
+Updating files:  14% (3348/22330)
+Updating files:  15% (3350/22330)
+Updating files:  15% (3441/22330)
+Updating files:  16% (3573/22330)
+Updating files:  16% (3709/22330)
+Updating files:  17% (3797/22330)
+Updating files:  17% (3801/22330)
+Updating files:  17% (3907/22330)
+Updating files:  17% (4007/22330)
+Updating files:  18% (4020/22330)
+Updating files:  18% (4108/22330)
+Updating files:  18% (4202/22330)
+Updating files:  19% (4243/22330)
+Updating files:  19% (4307/22330)
+Updating files:  19% (4406/22330)
+Updating files:  20% (4466/22330)
+Updating files:  20% (4511/22330)
+Updating files:  20% (4609/22330)
+Updating files:  21% (4690/22330)
+Updating files:  21% (4711/22330)
+Updating files:  21% (4798/22330)
+Updating files:  21% (4905/22330)
+Updating files:  22% (4913/22330)
+Updating files:  22% (5013/22330)
+Updating files:  22% (5115/22330)
+Updating files:  23% (5136/22330)
+Updating files:  23% (5222/22330)
+Updating files:  23% (5321/22330)
+Updating files:  24% (5360/22330)
+Updating files:  24% (5421/22330)
+Updating files:  24% (5520/22330)
+Updating files:  25% (5583/22330)
+Updating files:  25% (5617/22330)
+Updating files:  25% (5713/22330)
+Updating files:  26% (5806/22330)
+Updating files:  26% (5812/22330)
+Updating files:  26% (5908/22330)
+Updating files:  26% (6010/22330)
+Updating files:  27% (6030/22330)
+Updating files:  27% (6119/22330)
+Updating files:  27% (6212/22330)
+Updating files:  28% (6253/22330)
+Updating files:  28% (6308/22330)
+Updating files:  28% (6406/22330)
+Updating files:  29% (6476/22330)
+Updating files:  29% (6509/22330)
+Updating files:  29% (6614/22330)
+Updating files:  30% (6699/22330)
+Updating files:  30% (6725/22330)
+Updating files:  30% (6825/22330)
+Updating files:  30% (6922/22330)
+Updating files:  31% (6923/22330)
+Updating files:  31% (7014/22330)
+Updating files:  31% (7115/22330)
+Updating files:  32% (7146/22330)
+Updating files:  32% (7214/22330)
+Updating files:  32% (7309/22330)
+Updating files:  33% (7369/22330)
+Updating files:  33% (7402/22330)
+Updating files:  33% (7496/22330)
+Updating files:  34% (7593/22330)
+Updating files:  34% (7598/22330)
+Updating files:  34% (7729/22330)
+Updating files:  35% (7816/22330)
+Updating files:  35% (7835/22330)
+Updating files:  35% (7930/22330)
+Updating files:  35% (8030/22330)
+Updating files:  36% (8039/22330)
+Updating files:  36% (8126/22330)
+Updating files:  36% (8224/22330)
+Updating files:  37% (8263/22330)
+Updating files:  37% (8324/22330)
+Updating files:  37% (8423/22330)
+Updating files:  38% (8486/22330)
+Updating files:  38% (8520/22330)
+Updating files:  38% (8617/22330)
+Updating files:  39% (8709/22330)
+Updating files:  39% (8715/22330)
+Updating files:  39% (8809/22330)
+Updating files:  39% (8908/22330)
+Updating files:  40% (8932/22330)
+Updating files:  40% (9007/22330)
+Updating files:  40% (9101/22330)
+Updating files:  41% (9156/22330)
+Updating files:  41% (9202/22330)
+Updating files:  41% (9302/22330)
+Updating files:  42% (9379/22330)
+Updating files:  42% (9401/22330)
+Updating files:  42% (9505/22330)
+Updating files:  43% (9602/22330)
+Updating files:  43% (9609/22330)
+Updating files:  43% (9702/22330)
+Updating files:  43% (9796/22330)
+Updating files:  44% (9826/22330)
+Updating files:  44% (9896/22330)
+Updating files:  44% (9993/22330)
+Updating files:  45% (10049/22330)
+Updating files:  45% (10098/22330)
+Updating files:  45% (10222/22330)
+Updating files:  46% (10272/22330)
+Updating files:  46% (10344/22330)
+Updating files:  46% (10439/22330)
+Updating files:  47% (10496/22330)
+Updating files:  47% (10541/22330)
+Updating files:  47% (10656/22330)
+Updating files:  48% (10719/22330)
+Updating files:  48% (10778/22330)
+Updating files:  48% (10890/22330)
+Updating files:  49% (10942/22330)
+Updating files:  49% (11010/22330)
+Updating files:  49% (11128/22330)
+Updating files:  50% (11165/22330)
+Updating files:  50% (11249/22330)
+Updating files:  50% (11349/22330)
+Updating files:  51% (11389/22330)
+Updating files:  51% (11450/22330)
+Updating files:  51% (11554/22330)
+Updating files:  52% (11612/22330)
+Updating files:  52% (11653/22330)
+Updating files:  52% (11752/22330)
+Updating files:  53% (11835/22330)
+Updating files:  53% (11856/22330)
+Updating files:  53% (11956/22330)
+Updating files:  53% (12051/22330)
+Updating files:  54% (12059/22330)
+Updating files:  54% (12154/22330)
+Updating files:  54% (12258/22330)
+Updating files:  55% (12282/22330)
+Updating files:  55% (12354/22330)
+Updating files:  55% (12454/22330)
+Updating files:  56% (12505/22330)
+Updating files:  56% (12552/22330)
+Updating files:  56% (12651/22330)
+Updating files:  57% (12729/22330)
+Updating files:  57% (12747/22330)
+Updating files:  57% (12847/22330)
+Updating files:  57% (12946/22330)
+Updating files:  58% (12952/22330)
+Updating files:  58% (13045/22330)
+Updating files:  58% (13148/22330)
+Updating files:  59% (13175/22330)
+Updating files:  59% (13270/22330)
+Updating files:  59% (13373/22330)
+Updating files:  60% (13398/22330)
+Updating files:  60% (13468/22330)
+Updating files:  60% (13562/22330)
+Updating files:  61% (13622/22330)
+Updating files:  61% (13673/22330)
+Updating files:  61% (13779/22330)
+Updating files:  62% (13845/22330)
+Updating files:  62% (13890/22330)
+Updating files:  62% (13986/22330)
+Updating files:  63% (14068/22330)
+Updating files:  63% (14080/22330)
+Updating files:  63% (14174/22330)
+Updating files:  63% (14271/22330)
+Updating files:  64% (14292/22330)
+Updating files:  64% (14385/22330)
+Updating files:  64% (14483/22330)
+Updating files:  65% (14515/22330)
+Updating files:  65% (14583/22330)
+Updating files:  65% (14685/22330)
+Updating files:  66% (14738/22330)
+Updating files:  66% (14792/22330)
+Updating files:  66% (14881/22330)
+Updating files:  67% (14962/22330)
+Updating files:  67% (14974/22330)
+Updating files:  67% (15070/22330)
+Updating files:  67% (15175/22330)
+Updating files:  68% (15185/22330)
+Updating files:  68% (15282/22330)
+Updating files:  68% (15383/22330)
+Updating files:  69% (15408/22330)
+Updating files:  69% (15491/22330)
+Updating files:  69% (15600/22330)
+Updating files:  70% (15631/22330)
+Updating files:  70% (15702/22330)
+Updating files:  70% (15795/22330)
+Updating files:  71% (15855/22330)
+Updating files:  71% (15891/22330)
+Updating files:  71% (15993/22330)
+Updating files:  72% (16078/22330)
+Updating files:  72% (16095/22330)
+Updating files:  72% (16192/22330)
+Updating files:  72% (16288/22330)
+Updating files:  73% (16301/22330)
+Updating files:  73% (16390/22330)
+Updating files:  73% (16481/22330)
+Updating files:  74% (16525/22330)
+Updating files:  74% (16573/22330)
+Updating files:  74% (16677/22330)
+Updating files:  75% (16748/22330)
+Updating files:  75% (16774/22330)
+Updating files:  75% (16881/22330)
+Updating files:  76% (16971/22330)
+Updating files:  76% (16981/22330)
+Updating files:  76% (17083/22330)
+Updating files:  76% (17185/22330)
+Updating files:  77% (17195/22330)
+Updating files:  77% (17295/22330)
+Updating files:  77% (17393/22330)
+Updating files:  78% (17418/22330)
+Updating files:  78% (17495/22330)
+Updating files:  78% (17595/22330)
+Updating files:  79% (17641/22330)
+Updating files:  79% (17691/22330)
+Updating files:  79% (17777/22330)
+Updating files:  80% (17864/22330)
+Updating files:  80% (17871/22330)
+Updating files:  80% (17961/22330)
+Updating files:  80% (18060/22330)
+Updating files:  81% (18088/22330)
+Updating files:  81% (18168/22330)
+Updating files:  81% (18272/22330)
+Updating files:  82% (18311/22330)
+Updating files:  82% (18369/22330)
+Updating files:  82% (18469/22330)
+Updating files:  83% (18534/22330)
+Updating files:  83% (18557/22330)
+Updating files:  83% (18655/22330)
+Updating files:  84% (18758/22330)
+Updating files:  84% (18759/22330)
+Updating files:  84% (18862/22330)
+Updating files:  84% (18959/22330)
+Updating files:  85% (18981/22330)
+Updating files:  85% (19057/22330)
+Updating files:  85% (19159/22330)
+Updating files:  86% (19204/22330)
+Updating files:  86% (19257/22330)
+Updating files:  86% (19344/22330)
+Updating files:  87% (19428/22330)
+Updating files:  87% (19445/22330)
+Updating files:  87% (19545/22330)
+Updating files:  87% (19645/22330)
+Updating files:  88% (19651/22330)
+Updating files:  88% (19748/22330)
+Updating files:  88% (19844/22330)
+Updating files:  89% (19874/22330)
+Updating files:  89% (19936/22330)
+Updating files:  89% (20028/22330)
+Updating files:  90% (20097/22330)
+Updating files:  90% (20125/22330)
+Updating files:  90% (20229/22330)
+Updating files:  91% (20321/22330)
+Updating files:  91% (20349/22330)
+Updating files:  91% (20463/22330)
+Updating files:  92% (20544/22330)
+Updating files:  92% (20588/22330)
+Updating files:  92% (20699/22330)
+Updating files:  93% (20767/22330)
+Updating files:  93% (20799/22330)
+Updating files:  93% (20883/22330)
+Updating files:  93% (20969/22330)
+Updating files:  94% (20991/22330)
+Updating files:  94% (21044/22330)
+Updating files:  94% (21142/22330)
+Updating files:  95% (21214/22330)
+Updating files:  95% (21251/22330)
+Updating files:  95% (21353/22330)
+Updating files:  96% (21437/22330)
+Updating files:  96% (21450/22330)
+Updating files:  96% (21544/22330)
+Updating files:  96% (21645/22330)
+Updating files:  97% (21661/22330)
+Updating files:  97% (21740/22330)
+Updating files:  97% (21839/22330)
+Updating files:  98% (21884/22330)
+Updating files:  98% (21938/22330)
+Updating files:  98% (22037/22330)
+Updating files:  99% (22107/22330)
+Updating files:  99% (22154/22330)
+Updating files:  99% (22252/22330)
+Updating files: 100% (22330/22330)
+Updating files: 100% (22330/22330), done.
+Submodule 'lib/chibios' (https://github.com/qmk/ChibiOS) registered for path 'lib/chibios'
+Submodule 'lib/chibios-contrib' (https://github.com/qmk/ChibiOS-Contrib) registered for path 'lib/chibios-contrib'
+Submodule 'lib/googletest' (https://github.com/qmk/googletest) registered for path 'lib/googletest'
+Submodule 'lib/lufa' (https://github.com/qmk/lufa) registered for path 'lib/lufa'
+Submodule 'lib/lvgl' (https://github.com/qmk/lvgl.git) registered for path 'lib/lvgl'
+Submodule 'lib/pico-sdk' (https://github.com/qmk/pico-sdk.git) registered for path 'lib/pico-sdk'
+Submodule 'lib/printf' (https://github.com/qmk/printf) registered for path 'lib/printf'
+Submodule 'lib/vusb' (https://github.com/qmk/v-usb) registered for path 'lib/vusb'
+Cloning into '/c/Users/bartv/qmk_firmware/lib/chibios'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/chibios-contrib'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/googletest'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/lufa'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/lvgl'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/pico-sdk'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/printf'...
+Cloning into '/c/Users/bartv/qmk_firmware/lib/vusb'...
+Submodule path 'lib/chibios': checked out '8bd61b804303f1614d574546c2dd735eeabb09f5'
+Submodule path 'lib/chibios-contrib': checked out '8d863d9ee4eecea68ad8d15f7e7c2b451aea79d9'
+Submodule 'ext/mcux-sdk' (https://github.com/NXPmicro/mcux-sdk) registered for path 'lib/chibios-contrib/ext/mcux-sdk'
+Cloning into '/c/Users/bartv/qmk_firmware/lib/chibios-contrib/ext/mcux-sdk'...
+Submodule path 'lib/chibios-contrib/ext/mcux-sdk': checked out '102c27d7cc2aaac87c133702e7829a105e0cb433'
+Submodule path 'lib/googletest': checked out 'e2239ee6043f73722e7aa812a459f54a28552929'
+Submodule path 'lib/lufa': checked out '549b97320d515bfca2f95c145a67bd13be968faa'
+Submodule path 'lib/lvgl': checked out 'e19410f8f8a256609da72cff549598e0df6fa4cf'
+Submodule path 'lib/pico-sdk': checked out 'd0c5cac430cc955b65efa0e899748853d9a80928'
+Submodule path 'lib/printf': checked out 'c2e3b4e10d281e7f0f694d3ecbd9f320977288cc'
+Submodule path 'lib/vusb': checked out '819dbc1e5d5926b17e27e00ca6d3d2988adae04e'
+Ψ Successfully cloned https://github.com/qmk/qmk_firmware to C:/Users/bartv/qmk_firmware!
+Ψ Added https://github.com/qmk/qmk_firmware as remote upstream.
+Ψ QMK Doctor is checking your environment.
+Ψ Python version: 3.12.12
+Ψ CLI version: 1.2.0
+Ψ QMK home: C:/Users/bartv/qmk_firmware
+Ψ Detected Windows 10 (10.0.19045).
+Ψ QMK MSYS version: 1.12.0
+Ψ Found QMK tools distribution directory: C:/QMK_MSYS/opt/qmk
+Ψ Found QMK toolchains: windowsX64:baremetalARM:a55a2b0, windowsX64:baremetalAVR:a55a2b0, windowsX64:baremetalRV32:a55a2b0
+Ψ Found QMK flashutils: windowsX64:636c439
+Ψ Userspace enabled: False
+Ψ Git branch: master
+Ψ Repo version: 0.32.12
+Ψ - Latest master: 2026-04-14 06:17:28 -0400 (c93ef27143) -- [Keyboard] Add Kbd0 Curve0 75% ANSI (#25997)
+Ψ - Latest upstream/master: 2026-04-14 06:17:28 -0400 (c93ef27143) -- [Keyboard] Add Kbd0 Curve0 75% ANSI (#25997)
+Ψ - Latest upstream/develop: None
+Ψ - Common ancestor with upstream/master: 2026-04-14 06:17:28 -0400 (c93ef27143) -- [Keyboard] Add Kbd0 Curve0 75% ANSI (#25997)
+Ψ - Common ancestor with upstream/develop: None
+Ψ All dependencies are installed.
+Ψ Found arm-none-eabi-gcc version 15.2.0
+Ψ Successfully compiled using arm-none-eabi-gcc
+Ψ Successfully tested arm-none-eabi-binutils using arm-none-eabi-size
+Ψ Found avr-gcc version 15.2.0
+Ψ Successfully compiled using avr-gcc
+Ψ Successfully tested avr-binutils using avr-size
+Ψ Found avrdude version 8.1-2025062
+Ψ Found dfu-programmer version 1.1.0
+Ψ Found dfu-util version 0.11-dev
+Ψ Found diff version 3.12
+Ψ Found dos2unix version 7.5.3
+Ψ Found git version 2.52.0
+Ψ Found make version 4.4.1
+Ψ Submodules are up to date.
+Ψ Submodule status:
+Ψ - lib/chibios: 2025-05-15 08:25:11 +0000 --  (8bd61b8043)
+Ψ - lib/chibios-contrib: 2025-10-03 18:22:15 +0200 --  (8d863d9e)
+Ψ - lib/googletest: 2021-06-11 06:37:43 -0700 --  (e2239ee6)
+Ψ - lib/lufa: 2022-08-26 12:09:55 +1000 --  (549b97320)
+Ψ - lib/vusb: 2022-06-13 09:18:17 +1000 --  (819dbc1)
+Ψ - lib/printf: 2022-06-29 23:59:58 +0300 --  (c2e3b4e)
+Ψ - lib/pico-sdk: 2025-04-20 21:24:29 +1000 --  (d0c5cac)
+Ψ - lib/lvgl: 2022-04-11 04:44:53 -0600 --  (e19410f8)
+Ψ QMK is ready to go
+[bartv@aspire7-bart ~]$ qmk compile -kb <keyboard> -km <keymap>
+bash: syntaxfout nabij onverwacht symbool 'newline'
+[bartv@aspire7-bart ~]$ qmk compile -kb <keyboard> -km <keymap>
+bash: syntaxfout nabij onverwacht symbool 'newline'
+[bartv@aspire7-bart ~]$ qmk compile -kb <keyboard> -km <keymap>
+bash: syntaxfout nabij onverwacht symbool 'newline'
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$ qmk compile -kb <keyboard> -km <keymap>qmk compile -kb <keyboard> -km <keymap
+bash: keyboard: No such file or directory
+[bartv@aspire7-bart ~]$ qmk compile -kb <keyboard> -km <keymap>
+bash: syntaxfout nabij onverwacht symbool 'newline'
+[bartv@aspire7-bart ~]$ qmk doctor
+Ψ QMK Doctor is checking your environment.
+Ψ Python version: 3.12.12
+Ψ CLI version: 1.2.0
+Ψ QMK home: C:/Users/bartv/qmk_firmware
+Ψ Detected Windows 10 (10.0.19045).
+Ψ QMK MSYS version: 1.12.0
+Ψ Found QMK tools distribution directory: C:/QMK_MSYS/opt/qmk
+Ψ Found QMK toolchains: windowsX64:baremetalARM:a55a2b0, windowsX64:baremetalAVR:a55a2b0, windowsX64:baremetalRV32:a55a2b0
+Ψ Found QMK flashutils: windowsX64:636c439
+Ψ Userspace enabled: False
+Ψ Git branch: master
+Ψ Repo version: 0.32.12
+Ψ - Latest master: 2026-04-14 06:17:28 -0400 (c93ef27143) -- [Keyboard] Add Kbd0 Curve0 75% ANSI (#25997)
+Ψ - Latest upstream/master: 2026-04-14 06:17:28 -0400 (c93ef27143) -- [Keyboard] Add Kbd0 Curve0 75% ANSI (#25997)
+Ψ - Latest upstream/develop: None
+Ψ - Common ancestor with upstream/master: 2026-04-14 06:17:28 -0400 (c93ef27143) -- [Keyboard] Add Kbd0 Curve0 75% ANSI (#25997)
+Ψ - Common ancestor with upstream/develop: None
+Ψ All dependencies are installed.
+Ψ Found arm-none-eabi-gcc version 15.2.0
+Ψ Successfully compiled using arm-none-eabi-gcc
+Ψ Successfully tested arm-none-eabi-binutils using arm-none-eabi-size
+Ψ Found avr-gcc version 15.2.0
+Ψ Successfully compiled using avr-gcc
+Ψ Successfully tested avr-binutils using avr-size
+Ψ Found avrdude version 8.1-2025062
+Ψ Found dfu-programmer version 1.1.0
+Ψ Found dfu-util version 0.11-dev
+Ψ Found diff version 3.12
+Ψ Found dos2unix version 7.5.3
+Ψ Found git version 2.52.0
+Ψ Found make version 4.4.1
+Ψ Submodules are up to date.
+Ψ Submodule status:
+Ψ - lib/chibios: 2025-05-15 08:25:11 +0000 --  (8bd61b8043)
+Ψ - lib/chibios-contrib: 2025-10-03 18:22:15 +0200 --  (8d863d9e)
+Ψ - lib/googletest: 2021-06-11 06:37:43 -0700 --  (e2239ee6)
+Ψ - lib/lufa: 2022-08-26 12:09:55 +1000 --  (549b97320)
+Ψ - lib/vusb: 2022-06-13 09:18:17 +1000 --  (819dbc1)
+Ψ - lib/printf: 2022-06-29 23:59:58 +0300 --  (c2e3b4e)
+Ψ - lib/pico-sdk: 2025-04-20 21:24:29 +1000 --  (d0c5cac)
+Ψ - lib/lvgl: 2022-04-11 04:44:53 -0600 --  (e19410f8)
+Ψ QMK is ready to go
+[bartv@aspire7-bart ~]$ qmk compile -kb <keyboard> -km <keymap>
+bash: syntaxfout nabij onverwacht symbool 'newline'
+[bartv@aspire7-bart ~]$ qmk new-keyboard
+Ψ Generating a new QMK keyboard directory
+
+Ψ Name Your Keyboard Project
+Ψ For more information, see:
+https://docs.qmk.fm/hardware_keyboard_guidelines#naming-your-keyboard-project
+Keyboard Name? macro hackpad
+☒ Keyboard names must contain only lowercase a-z, 0-9, and _! Please choose a different name.
+[bartv@aspire7-bart ~]$ marcrohackpad
+bash: marcrohackpad: opdracht niet gevonden
+[bartv@aspire7-bart ~]$
+[bartv@aspire7-bart ~]$ qmk new-keyboard
+Ψ Generating a new QMK keyboard directory
+
+Ψ Name Your Keyboard Project
+Ψ For more information, see:
+https://docs.qmk.fm/hardware_keyboard_guidelines#naming-your-keyboard-project
+Keyboard Name? macrohaackpad
+Ψ Attribution
+Ψ Used for maintainer, copyright, etc.
+Your GitHub Username? bartvernooij7
+Ψ More Attribution
+Ψ Used for maintainer, copyright, etc.
+Your Real Name? [bartvernooij7] bart vernooij
+Ψ Pick Base Layout
+Ψ As a starting point, one of the common layouts can be used to
+bootstrap the process
+Default Layout?
+        1. 60_abnt2
+        2. 60_ansi
+        3. 60_ansi_arrow
+        4. 60_ansi_wkl
+        5. 60_hhkb
+        6. 60_iso
+        7. 60_iso_arrow
+        8. 60_iso_wkl
+        9. 60_jis
+        10. 64_ansi
+        11. 64_iso
+        12. 65_ansi
+        13. 65_iso
+        14. 66_ansi
+        15. 66_iso
+        16. 68_ansi
+        17. 68_iso
+        18. 75_ansi
+        19. 75_iso
+        20. 96_ansi
+        21. 96_iso
+        22. alice
+        23. ergodox
+        24. fullsize_ansi
+        25. fullsize_extended_ansi
+        26. fullsize_extended_iso
+        27. fullsize_extended_jis
+        28. fullsize_iso
+        29. fullsize_jis
+        30. numpad_4x4
+        31. numpad_5x4
+        32. numpad_5x6
+        33. numpad_6x4
+        34. numpad_6x5
+        35. ortho_1x1
+        36. ortho_2x3
+        37. ortho_2x6
+        38. ortho_3x10
+        39. ortho_3x3
+        40. ortho_4x10
+        41. ortho_4x12
+        42. ortho_4x16
+        43. ortho_4x4
+        44. ortho_4x6
+        45. ortho_5x10
+        46. ortho_5x12
+        47. ortho_5x13
+        48. ortho_5x14
+        49. ortho_5x15
+        50. ortho_5x4
+        51. ortho_5x5
+        52. ortho_6x13
+        53. ortho_6x4
+        54. planck_mit
+        55. split_3x5_2
+        56. split_3x5_3
+        57. split_3x6_3
+        58. tkl_ansi
+        59. tkl_ansi_wkl
+        60. tkl_iso
+        61. tkl_iso_wkl
+        62. tkl_jis
+        63. tkl_nofrow_ansi
+        64. tkl_nofrow_iso
+        65. none of the above
+Please enter your choice: [65] 18
+Ψ What Powers Your Project
+Ψ Is your board using a separate development board, such as a Pro Micro,
+or is the microcontroller integrated onto the PCB?
+
+For more information, see:
+https://docs.qmk.fm/compatible_microcontrollers
+Using a Development Board? [y/n] n
+Ψ Select Microcontroller
+Ψ For more information, see:
+https://docs.qmk.fm/compatible_microcontrollers
+Microcontroller?
+        1. AT32F415
+        2. at90usb1286
+        3. at90usb1287
+        4. at90usb162
+        5. at90usb646
+        6. at90usb647
+        7. atmega16u2
+        8. atmega16u4
+        9. atmega328
+        10. atmega328p
+        11. atmega32a
+        12. atmega32u2
+        13. atmega32u4
+        14. attiny85
+        15. GD32VF103
+        16. MK20DX128
+        17. MK20DX256
+        18. MK64FX512
+        19. MK66FX1M0
+        20. MKL26Z64
+        21. RP2040
+        22. STM32F042
+        23. STM32F072
+        24. STM32F103
+        25. STM32F303
+        26. STM32F401
+        27. STM32F405
+        28. STM32F407
+        29. STM32F411
+        30. STM32F446
+        31. STM32G0B1
+        32. STM32G431
+        33. STM32G474
+        34. STM32H723
+        35. STM32H733
+        36. STM32L412
+        37. STM32L422
+        38. STM32L432
+        39. STM32L433
+        40. STM32L442
+        41. STM32L443
+        42. WB32F3G71
+        43. WB32FQ95
+Please enter your choice: [13] 21
+Ψ Created a new keyboard called macrohaackpad.
+Ψ Build Command: qmk compile -kb macrohaackpad -km default.
+Ψ Project Location: C:/Users/bartv/qmk_firmware/keyboards/macrohaackpad.
+Ψ Now update the config files to match the hardware!
+[bartv@aspire7-bart ~]$
