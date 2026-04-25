@@ -14,5 +14,5 @@ and i also dit it of course for making my workflow better so can change and see 
 <img width="1622" height="1120" alt="image" src="https://github.com/user-attachments/assets/72fed0d7-c82f-48da-8f91-c7b562c3028a" />
 <img width="2548" height="1323" alt="image" src="https://github.com/user-attachments/assets/670b9555-af4d-446a-82f2-d801b4b312f3" />
 <img width="1417" height="918" alt="image" src="https://github.com/user-attachments/assets/2fe2b1a7-6212-459c-af3a-208f014893e4" />
-<img width="1528" height="655" alt="image" src="https://github.com/user-attachments/assets/b1e16e36-6db6-468c-bbd1-9023dff141dc" />
+<img width="1901" height="907" alt="image" src="https://github.com/user-attachments/assets/ae7fa488-580c-4c80-bbec-384908418a99" />
 
