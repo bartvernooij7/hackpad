@@ -11,6 +11,26 @@ why dit i make this macropad
 i made it because i wanted to know how to make my own pcb's and make firmare, this was a nice introduction into making my first pcb 
 and i also dit it of course for making my workflow better so can change and see things easyer when i am doing homework or modeling
 
+how to make my hackpad
+if you want to recreat my hackpad, you need to have few tools en skils
+you need to have: 
+tools: a soldering iron, acces to a 3dprinter and computer from programing the firmware
+skils: you need to know a litte bit how to solder 
+
+how to start
+go to jlcpcb or any other pcb manufacturer and upload the gerbers from my pcb that you can find in my respotry under gerbers and its called ''macro pad_drl.zip''.
+upload this file to jlc pcb ( you can use this link to get to jlc https://shorturl.at/ydwEK) and order the pcb.
+after you orderd the pcb what i recomed you do first because it takes a long time to ship for decent price. you can order the rest of parts in the bom via alliexpres 
+you can get the 3d model in my repostory under cadmodel you can 3dprint it yourself or go to jlc3d with this link:''https://jlc3dp.com/3d-printing-quote?from=button'' and order it there 
+
+if you have all the parts you can solder every thing on to the pcb like you can see in de referce foto : PLACE HOLDER!! 
+after you don soldering you can drop the pcb into case and glue it if you want it exstra secure and solid.
+you can not shrew the top part jet because you stil need to flash the firware to you macropad i recomed this guide:https://sl1nk.com/z8o8f68 note: the microcontroler that you are using is the rp2040
+
+after that you can put the top on and schrew it in place with some genrice schrews or some that you can find in any hardware store or alliexpres(NEED A SPECIFIEK SHREW TO USE)
+
+
+
 the bom with all of the parts and prices:[bom.xlsx](https://github.com/user-attachments/files/28613697/bom.xlsx)
 <img width="943" height="678" alt="image" src="https://github.com/user-attachments/assets/cb747f79-4c36-448a-8f2c-c80b99d4c150" />
 <img width="1092" height="691" alt="image" src="https://github.com/user-attachments/assets/8309b998-4fc7-47e6-96b6-e11fd5479370" />
