@@ -15,7 +15,8 @@ how to make my hackpad
 if you want to recreat my hackpad, you need to have few tools en skils
 you need to have: 
 
-tools: a soldering iron, acces to a 3dprinter and computer from programing the firmware skils: you need to know a litte bit how to solder 
+tools: a soldering iron, acces to a 3dprinter and computer from programing the firmware 
+skils: you need to know a litte bit how to solder 
 
 how to start
 go to jlcpcb or any other pcb manufacturer and upload the gerbers from my pcb that you can find in my respotry under gerbers and its called ''macro pad_drl.zip''.
