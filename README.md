@@ -28,7 +28,7 @@ if you have all the parts you can solder every thing on to the pcb like you can 
 after you don soldering you can drop the pcb into case and glue it if you want it exstra secure and solid.
 you can not shrew the top part jet because you stil need to flash the firware to you macropad i recomed this guide:https://sl1nk.com/z8o8f68 note: the microcontroler that you are using is the rp2040
 
-after that you can put the top on and schrew it in place with some genrice schrews or some that you can find in any hardware store or alliexpres(NEED A SPECIFIEK SHREW TO USE)
+after that you can put the top on and schrew it in place with some genrice schrews or some that you can find in any hardware store or alliexpres(NEED A TO FIND SPECIFIEK SHREW TO USE)
 
 
 
