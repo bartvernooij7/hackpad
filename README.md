@@ -14,6 +14,7 @@ and i also dit it of course for making my workflow better so can change and see 
 how to make my hackpad
 if you want to recreat my hackpad, you need to have few tools en skils
 you need to have: 
+
 tools: a soldering iron, acces to a 3dprinter and computer from programing the firmware
 skils: you need to know a litte bit how to solder 
 
