@@ -41,7 +41,8 @@ the bom with all of the parts and prices:
 <img width="1688" height="906" alt="image" src="https://github.com/user-attachments/assets/a76c55c1-07ce-4306-8192-1f9a89df3340" />
 <img width="1322" height="805" alt="image" src="https://github.com/user-attachments/assets/b3376ccc-643e-46c7-ba38-3270b7413afb" />
 <img width="1087" height="765" alt="image" src="https://github.com/user-attachments/assets/5b38e566-780a-4d95-bc80-86efb456a5aa" />
-<img width="1067" height="822" alt="image" src="https://github.com/user-attachments/assets/924692ad-826b-4aae-8b57-871de2ef5159" />
+<img width="953" height="722" alt="image" src="https://github.com/user-attachments/assets/63d06758-fc59-4dbb-899e-4b716b773767" />
+
 
 
 
