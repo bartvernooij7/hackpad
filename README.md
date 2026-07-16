@@ -35,7 +35,7 @@ after that you can put the top on and schrew it in place with some genrice schre
 
 
 
-the bom with all of the parts and prices:
+the bom with all of the parts and prices is in the repostory!
 <img width="1225" height="915" alt="image" src="https://github.com/user-attachments/assets/0cd2037a-315b-4bd3-ba42-b141b81cde8d" />
 <img width="1444" height="757" alt="image" src="https://github.com/user-attachments/assets/32005165-104e-4ba9-bd32-0e87eec072a8" />
 <img width="1688" height="906" alt="image" src="https://github.com/user-attachments/assets/a76c55c1-07ce-4306-8192-1f9a89df3340" />
