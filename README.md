@@ -3,6 +3,9 @@
 Hi, this is my Hackpad repository. I originally started making this Hackpad on Blueprint, but Blueprint has ended, so I moved over to Forge to finish.
 I designed the macropad for hardware monitoring and functioning as a soundboard. It features an integrated display, a rotary encoder for volume control, and 4 programmable buttons for macros (like passwords) and shortcuts (like `Ctrl+C`). While the screen currently displays a static photo, the software for hardware monitoring and volume control is fully functional.
 
+## what is the purpose of this project 
+for my and for other people how to build your own macropad. but why build your own macropad if you can buy one in the store? 
+because it is fun to do, and this one is fully customized to my needs and you can customize it to your needs 
 ## Why Did I Make This?
 I built this macropad because I wanted to learn how to design my own PCBs and write custom firmware. This project served as an excellent introduction to creating my first PCB. Additionally, I built it to improve my personal workflow, making it easier to adjust settings and monitor my system while doing homework or 3D modeling.
 
