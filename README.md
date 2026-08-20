@@ -36,16 +36,16 @@ Here are all the parts and prices required for this build:
 
 | Item | Price | Link |
 | :--- | :--- | :--- |
-| Keycaps (Green) | €2.45 | [AliExpress Link](https://l1nk.dev/9ejw5r6) |
-| Rotary Encoder | €1.46 | [AliExpress Link](https://nl.aliexpress.com/item/1005009040530746.html) |
-| 128x32 Screen | €2.02 | [AliExpress Link](https://a.aliexpress.com/_EJ4NFM8) |
-| Switches (20pc) | €3.18 | [AliExpress Link](https://nl.aliexpress.com/item/1005011838889689.html) |
-| Seeed RP2040 | €10.94 | [AliExpress Link](https://a.aliexpress.com/_EQkfTBi) |
-| Screws | €3.93 | [AliExpress Link](https://nl.aliexpress.com/item/1005008724193768.html) |
-| PCB | €3.65 | N/A |
+| Keycaps (Green) | €2.45/$2.86 | [AliExpress Link](https://l1nk.dev/9ejw5r6) |
+| Rotary Encoder | €1.46/$1.70 | [AliExpress Link](https://nl.aliexpress.com/item/1005009040530746.html) |
+| 128x32 Screen | €2.02/$2.36 | [AliExpress Link](https://a.aliexpress.com/_EJ4NFM8) |
+| Switches (20pc) | €3.18/$3.71 | [AliExpress Link](https://nl.aliexpress.com/item/1005011838889689.html) |
+| Seeed RP2040 | €10.94/$12.77 | [AliExpress Link](https://a.aliexpress.com/_EQkfTBi) |
+| Screws | €3.93/$4.59 | [AliExpress Link](https://nl.aliexpress.com/item/1005008724193768.html) |
+| PCB | €3.65/$4.26 | N/A |
 | Filament | Free (I pay) | N/A |
-| **Total AliExpress** | **€23.98** | |
-| **Total Complete** | **€27.63** | |
+| **Total AliExpress** | **€23.98/$27.98** | |
+| **Total Complete** | **€27.63/$32.25** | |
 
 ## Some known Issues (will get fixed)
 * The screen currently only displays a static photo; this is because I have not built it yet, so I can't debug it and write software for it.
