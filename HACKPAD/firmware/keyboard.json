@@ -1,0 +1,46 @@
+{
+    "manufacturer": "bart vernooij",
+    "keyboard_name": "macrohaackpad",
+    "maintainer": "bartvernooij7",
+
+    "processor": "RP2040",
+    "bootloader": "rp2040",
+
+    "usb": {
+        "vid": "0xFEED",
+        "pid": "0x0001",
+        "device_version": "1.0.0"
+    },
+
+    "features": {
+        "bootmagic": true,
+        "encoder": true,
+        "oled": true
+    },
+
+    "matrix_pins": {
+        "direct": [
+            ["GP1", "GP2", "GP4", "GP3", "GP28"]
+        ]
+    },
+
+    "diode_direction": "COL2ROW",
+
+    "encoder": {
+        "rotary": [
+            { "pin_a": "GP26", "pin_b": "GP27" }
+        ]
+    },
+
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                { "matrix": [0, 0], "x": 0, "y": 0 },
+                { "matrix": [0, 1], "x": 1, "y": 0 },
+                { "matrix": [0, 2], "x": 0, "y": 1 },
+                { "matrix": [0, 3], "x": 1, "y": 1 },
+                { "matrix": [0, 4], "x": 0.5, "y": 2 }
+            ]
+        }
+    }
+}
